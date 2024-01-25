@@ -8,3 +8,8 @@
 Repositorio para el material del curso de aprendizaje no supervisado.
 
 - [Clase 1](/Clase01/)
+
+* [Notebook](/Clase01/Clase%201%20aprendizaje%20no%20supervisado.ipynb) 
+
+* Fuente de datos [kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
+
