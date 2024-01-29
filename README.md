@@ -15,4 +15,4 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 
 - [Clase 2](/Clase02/)
 
-    * [Notebook](/Clase01/Clase%202%20aprendizaje%20no%20supervisado.ipynb) 
+    * [Notebook](/Clase02/Clase%202%20aprendizaje%20no%20supervisado.ipynb) 
