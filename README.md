@@ -13,3 +13,6 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 
     * Fuente de datos [kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
+- [Clase 2](/Clase02/)
+
+    * [Notebook](/Clase01/Clase%202%20aprendizaje%20no%20supervisado.ipynb) 
