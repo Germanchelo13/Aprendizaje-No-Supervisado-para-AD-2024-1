@@ -16,4 +16,7 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 - [Clase 2](/Clase02/)
 
     * [Notebook](/Clase02/Clase%202%20aprendizaje%20no%20supervisado.ipynb) 
-    * [Notebook](/Clase02/Taller%201%20Aprendizaje%20no%20supervisado.ipynb)
+    * [Taller 1](/Clase02/Taller%201%20Aprendizaje%20no%20supervisado.ipynb)
+- [Clase 3](/Clase03/)
+
+    * [Notebook](/Clase03/Clase%203%20aprendizaje%20no%20supervisado.ipynb)
